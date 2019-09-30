@@ -20,7 +20,7 @@ $ pip install gmaps
 ```bash
 $ jupyter nbextension enable --py --sys-prefix gmaps
 ```
-*Plotly requres an account and api key which can be obtained by creating a free account on their website. This needs to be added to the main application jupiter notebook in the first cell.
+*Plotly requires an account and api key which can be obtained by creating a free account on their website. This needs to be added to the main application jupiter notebook in the first cell.
 
 *Google API requires an API key which needs to be obatined from google and addd to the config.py file in the utils folder
 
